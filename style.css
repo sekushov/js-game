@@ -1,0 +1,22 @@
+.start-menu {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: #38002c;
+    overflow: hidden;
+}
+.start-menu-btn {
+    display: block;
+    font-family: 'Press Start 2P', cursive;
+    font-size: 20pt;
+    background-color: #8babbf;
+    color: #38002c;
+    padding: 20pt 30pt;
+    margin: 10pt;
+    border: none;
+}
